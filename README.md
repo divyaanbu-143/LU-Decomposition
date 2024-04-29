@@ -11,7 +11,7 @@ To write a program to find the LU Decomposition of a matrix.
 
 1. import the NumPy library using the statement import numpy as np.
 2. Define the given matrix A
-3. Compute the inverse of matrix A using np.linalg.inv()
+3. Compute the LU Decomposition using np.linalg.inv()
 4. print and end the program
 
 ## Program:
