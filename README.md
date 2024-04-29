@@ -1,4 +1,4 @@
-![image](https://github.com/divyaanbu-143/LU-Decomposition/assets/155506447/a56ad402-9a3a-4270-9a50-3b4f61029957)# LU Decomposition 
+# LU Decomposition 
 # DATE:30/03/2024
 ## AIM:
 To write a program to find the LU Decomposition of a matrix.
